@@ -6,11 +6,5 @@ document.addEventListener("DOMContentLoaded", function() {
             alert("Hola! Soy el Div");
         }
     })
-})
-    
-    /*contenedorBoton.addEventListener("click",function(){
-        alert("Hola! Soy el Div");*/
-
-
-
+}) 
 
